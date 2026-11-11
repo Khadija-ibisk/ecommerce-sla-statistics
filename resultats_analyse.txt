@@ -1,0 +1,25 @@
+================================================================================
+RÉSULTATS DE L'ANALYSE STATISTIQUE
+================================================================================
+
+1. STATISTIQUES DESCRIPTIVES
+   Visites: μ = 5126.90, σ = 2805.44
+   Ventes: μ = 245.57, σ = 140.85
+   Temps_Reponse: μ = 2.8300s, σ = 1.2953s
+   Clics: μ = 25.18, σ = 14.71
+
+2. RÉGRESSION LINÉAIRE
+   Équation: Ventes = 252.80 + -0.001411 × Visites
+   Corrélation: r = -0.0281
+   R² = 0.0008
+
+3. TEST DE STUDENT
+   Statistique t = 46.2655
+   P-value = 0.000000
+   Décision: Rejet de H0
+
+4. TEST DU KHI-DEUX
+   Statistique χ² = 9.2849
+   P-value = 0.158181
+   V de Cramer = 0.0964
+   Décision: Acceptation de H0
